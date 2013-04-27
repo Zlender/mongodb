@@ -1,4 +1,4 @@
-Add dependencies[] = mongodb to minimal.info
+Add mongodb as a dependancy to core/profiles/minimal/minimal.yaml
 
 Add to settings.php:
 
